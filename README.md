@@ -1,3 +1,3 @@
 # hackathonApp
-Contain realtime database .
+Contains realtime database .
 Request recieve and fetch in realtime.
